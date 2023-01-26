@@ -1,0 +1,2 @@
+# hashfile
+Hash file
